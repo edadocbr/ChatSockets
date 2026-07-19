@@ -34,7 +34,7 @@ Sistema de chat en tiempo real desarrollado como proyecto académico para la Fac
 1. Clonar el repositorio:
 ```bash
 git clone <url-del-repositorio>
-cd chat-fisi
+cd chatsockets
 ```
 
 2. Instalar dependencias:
