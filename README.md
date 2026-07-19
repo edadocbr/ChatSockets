@@ -1,6 +1,6 @@
-# Chat FISI - Sistema de Mensajería en Tiempo Real
+# Chat Sockets - Sistema de Mensajería en Tiempo Real
 
-Sistema de chat en tiempo real desarrollado como proyecto académico para la Facultad de Ingeniería de Sistemas (FISI).
+Sistema de chat en tiempo real desarrollado como proyecto académico para la Facultad de Ingeniería de Sistemas - UNMSM.
 
 ## Características
 
@@ -69,5 +69,3 @@ php artisan reverb:start
 ```bash
 php artisan serve
 ```
-
-Proyecto académico - Facultad de Ingeniería de Sistemas (FISI)
